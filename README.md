@@ -1,24 +1,31 @@
-# Developer skill
+# Developer Skills
+
 ## Mobile
-  - Flutter
+- Flutter
+
 ## Web
-  - React
+- React
+
 ## Backend
-  - NestJS
-  - FastifyJS
-  - expressJS
-  - Go with gin
-## Data pipeline
- - Airflow
+- NestJS
+- FastifyJS
+- ExpressJS
+- Go with Gin
+
+## Data Pipeline
+- Airflow
+
 ## Tools
 - Docker
-- postman
-## Programming language
-- go
-- typescript, javascript
-- python
-- c++
-- java
+- Postman
+
+## Programming Languages
+- Go
+- TypeScript/JavaScript
+- Python
+- C++
+- Java
+
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,react,nest,docker,go,py,vscode,vite,vim,ts,js,sentry,stackoverflow,postgres,git,gcp,cpp,arduino,java&theme=light)](https://skillicons.dev)
 
