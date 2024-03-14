@@ -1,20 +1,26 @@
 # Developer skill
-### Mobile
+## Mobile
   - Flutter
-### Web
+## Web
   - React
-### Backend
+## Backend
   - NestJS
   - FastifyJS
   - expressJS
   - Go with gin
-### Data pipeline
+## Data pipeline
  - Airflow
-### tool
+## Tools
 - Docker
-- k8s (basis)
-## programming
-[![My Skills](https://skillicons.dev/icons?i=flutter,react,nest,docker,go,py,vscode,vite,vim,ts,js,sentry,stackoverflow,postgres,git,gcp,cpp,arduino&theme=light)](https://skillicons.dev)
+- postman
+## Programming language
+- go
+- typescript, javascript
+- python
+- c++
+- java
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,nest,docker,go,py,vscode,vite,vim,ts,js,sentry,stackoverflow,postgres,git,gcp,cpp,arduino,java&theme=light)](https://skillicons.dev)
 
 # Brag-documents
 - [2023](https://github.com/Mrkonxyz/brag-documents/blob/main/2023.md)
