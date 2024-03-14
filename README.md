@@ -21,11 +21,11 @@
 - Postman
 
 ## Programming Languages
-- Go
-- TypeScript/JavaScript
-- Python
 - C++
+- Go
 - Java
+- Python
+- TypeScript/JavaScript
 
 ## Could
 - Google could run
