@@ -11,6 +11,7 @@
 - FastifyJS
 - ExpressJS
 - Go with Gin
+- Firebase
 
 ## Data Pipeline
 - Airflow
@@ -26,6 +27,8 @@
 - C++
 - Java
 
+## Could
+- Google could run
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,react,nest,docker,go,py,vscode,vite,vim,ts,js,sentry,stackoverflow,postgres,git,gcp,cpp,arduino,java&theme=light)](https://skillicons.dev)
 
