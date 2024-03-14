@@ -16,6 +16,9 @@
 ## Data Pipeline
 - Airflow
 
+## Automate Test
+- Playwright
+
 ## Tools
 - Docker
 - Postman
