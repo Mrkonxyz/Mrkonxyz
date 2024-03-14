@@ -7,12 +7,14 @@
   - NestJS
   - FastifyJS
   - expressJS
-  - Golang
+  - Go with gin
 ### Data pipeline
  - Airflow
-### Infrastructure
+### tool
 - Docker
 - k8s (basis)
+## programming
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,nest,docker,go,py,vscode,vite,vim,ts,js,sentry,stackoverflow,postgres,git,gcp,cpp,arduino&theme=light)](https://skillicons.dev)
 
 # Brag-documents
 - [2023](https://github.com/Mrkonxyz/brag-documents/blob/main/2023.md)
