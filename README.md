@@ -1,4 +1,4 @@
-# Developer Skills
+# Full Stack Developer
 
 ## Mobile
 - Flutter
