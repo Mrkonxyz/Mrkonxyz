@@ -31,11 +31,11 @@ I maintain a yearly log of my technical achievements, projects, and learnings.
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrkonxyz&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkonxyz&layout=compact&theme=transparent&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrkonxyz&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkonxyz&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/your-linkedin-url/)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@example.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarunyu-tiawprasong-01205224b/)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:saranuykon@gmail.com)
