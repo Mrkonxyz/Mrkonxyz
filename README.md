@@ -9,7 +9,7 @@ I have strong expertise in **Mobile (Flutter)**, **Web Frontend (React)**, and *
 ## 🚀 Technical Skills
 
 ### 📱 Mobile & 💻 Web Frontend
-[![My Skills](https://skillicons.dev/icons?i=flutter,react,ts,js,vite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,ts&theme=light)](https://skillicons.dev)
 
 ### ⚙️ Backend & Database
 [![My Skills](https://skillicons.dev/icons?i=go,spring,java,postgres,mongodb&theme=light)](https://skillicons.dev)
