@@ -29,10 +29,6 @@ I maintain a yearly log of my technical achievements, projects, and learnings.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrkonxyz&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkonxyz&layout=compact&theme=radical)
 
 ---
 
